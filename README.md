@@ -11,6 +11,9 @@ Along with separate parts lists for each version that includes
 the original purchase source. (No garuntee that any particular
 part will still be in stock on sites listed.)
 
+In the Images section, you will find pictures of the different
+versions so you know what you are looking for in the other sections.
+
 In the CAD section, you will find the files for the early prototype
 and the final Kickstarter version. The early kickstarter version
 will be cheaper to make considering that the enclosure used was
