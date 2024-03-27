@@ -5,6 +5,12 @@ However, you are not limited to JUST these 2 XY controls.
 You can have 2 Joysticks, or 2 thumbsticks or any combination
 that you wish. You only need to modify the project to your needs.
 
+BEFORE YOU START BUYING PARTS
+The LCD screen and the Mainboard ARE DIFFERENT SIZES on 
+prototype B than they are on prototype A. Make sure that the
+filename prefixes MATCH in your LOCAL folder copy before you
+start spending money!
+
 In the DIY section, you will find "How-To" guides to build the
 Midi Sentinel, step-by-step for each version of the Midi-Sentinel.
 Along with separate parts lists for each version that includes
