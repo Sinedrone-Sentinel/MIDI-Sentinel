@@ -19,6 +19,10 @@ and the final Kickstarter version. The early kickstarter version
 will be cheaper to make considering that the enclosure used was
 NOT a custom designed enclosure, but an off the shelf enclosure
 that you can buy online for around $20.
+Also, worth noting. If you buy the "Off-the-shelf" enclosure, there
+is NO usb mounting "hole" on the back. You will either need to cut
+that out yourself or the website where it is sold has a fairly cheap
+machining option where they will modify it for you before shipping.
 
 In the EDA section, you will find the mainboard circuit board design
 file and the knob controller circuit board file.  These can be uploaded
