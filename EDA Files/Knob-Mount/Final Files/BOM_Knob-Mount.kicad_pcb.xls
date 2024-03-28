@@ -1,0 +1,3 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+IDC1,1,16_Pin_IDC_2x08_Power,IDC-Header_2x10_P2.54mm_Vertical,,tht
+"J1, J2",2,Top Row,PinHeader_8x3_P2.54mm_Knobs,,tht
