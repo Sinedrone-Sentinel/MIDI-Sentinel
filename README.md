@@ -14,7 +14,7 @@ start spending money!
 In the DIY section, you will find "How-To" guides to build the
 Midi Sentinel, step-by-step for each version of the Midi-Sentinel.
 Along with separate parts lists for each version that includes
-the original purchase source. (No garuntee that any particular
+the original purchase source. (No guarantee that any particular
 part will still be in stock on sites listed.)
 
 In the Images section, you will find pictures of the different
