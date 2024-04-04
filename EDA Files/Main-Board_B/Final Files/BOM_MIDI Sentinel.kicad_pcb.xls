@@ -1,8 +1,0 @@
-﻿designator,quantity,value,pack,mpn,mount_type
-BOB-1,1,Multiplexer,BOB-09056,,tht
-IDC1,1,16_Pin_IDC_2x08_Power,IDC-Header_2x10_P2.54mm_Vertical,,tht
-J10,1,Thumbstick,PinSocket_1x05_P2.54mm_Vertical,,tht
-J11,1,Joystick,PinSocket_1x06_P2.54mm_Vertical,,tht
-J4,1,Rotary Encoder,PinSocket_1x05_P2.54mm_Vertical,,tht
-J9,1,LCD,PinSocket_1x04_P2.54mm_Vertical,,tht
-U1,1,Arduino_Micro,Arduino_Micro,,tht
